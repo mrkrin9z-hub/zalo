@@ -1,0 +1,10 @@
+{
+  "name": "zalo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.0.0"
+  }
+}
